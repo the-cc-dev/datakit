@@ -11,3 +11,5 @@ Datakit.app/
 bridge/github/webhook/webhook
 COMMIT
 .merlin
+.*.swp
+_opam
